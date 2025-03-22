@@ -44,4 +44,4 @@ else:
     else:
         situacao = "Obesidade III (mórbida)"
 
-    print(f"Sua situação corporal é: {situacao}")
+    print("Sua situação corporal é:", situacao)
