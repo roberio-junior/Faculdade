@@ -1,4 +1,10 @@
-#   Desenvolva um programa que leia a altura (em metros) e o peso (em quilogramas) e calcule o IMC - Índice de Massa Corporal do usuário e informe sua situação corporal conforme tabela abaixo. O cálculo do IMC é feito dividindo-se o peso pela altura ao quadrado. Sabe-se ainda que a tabela abaixo é válida apenas para pessoas acima dos 15 anos de idade, então o programa deverá invalidar os cálculos que fujam dessa regra.
+#   Desenvolva um programa que leia a altura (em metros) e o peso (em
+# quilogramas) e calcule o IMC - Índice de Massa Corporal do usuário e
+# informe sua situação corporal conforme tabela abaixo. O cálculo do
+# IMC é feito dividindo-se o peso pela altura ao quadrado. Sabe-se
+# ainda que a tabela abaixo é válida apenas para pessoas acima dos 15
+# anos de idade, então o programa deverá invalidar os cálculos que
+# fujam dessa regra.
 
 #   RESULTADO          | SITUAÇÃO
 #   Abaixo de 17       | Muito abaixo do peso

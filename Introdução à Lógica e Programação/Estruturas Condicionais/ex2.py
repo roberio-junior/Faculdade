@@ -1,4 +1,7 @@
-# Construa um programa que leia dois números e pergunte ao usuário qual operação ele deseja executar: soma, subtração, multiplicação ou divisão. Após a operação o programa deve exibir o resultado do processamento.
+#   Construa um programa que leia dois números e pergunte ao usuário qual
+# operação ele deseja executar: soma, subtração, multiplicação ou
+# divisão. Após a operação o programa deve exibir o resultado do
+# processamento.
 
 
 print("=" * 30)

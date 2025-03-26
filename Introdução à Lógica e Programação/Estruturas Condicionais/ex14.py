@@ -1,4 +1,7 @@
-# Construa um algoritmo em Python para determinar a situação (APROVADO / QUARTA PROVA / REPROVADO) de um aluno, dado a sua freqüência (porcentagem de 0 a 100%) e sua nota (nota de 0.0 a 10.0), sendo que:
+# Construa um algoritmo em Python para determinar a situação
+# (APROVADO / QUARTA PROVA / REPROVADO) de um aluno, dado a sua
+# freqüência (porcentagem de 0 a 100%) e sua nota (nota de 0.0 a 10.0),
+# sendo que:
 
 #Condição                                            | Situação
 #Freqüência até 75%                                  | Reprovado

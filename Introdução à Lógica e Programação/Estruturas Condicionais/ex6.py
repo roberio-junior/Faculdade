@@ -1,4 +1,5 @@
-#   Escreva um algoritmo em Python que dada a idade de uma pessoa, determine sua classificação segundo a seguinte tabela:
+#   Escreva um algoritmo em Python que dada a idade de uma pessoa,
+# determine sua classificação segundo a seguinte tabela:
 
 #   -maior de idade;
 #   -menor de idade;

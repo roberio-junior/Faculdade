@@ -1,4 +1,9 @@
-# Construa um programa bancário para aprovação de empréstimos. O programa deve receber o valor do empréstimo solicitado, o salário do cliente e a quantidade de meses para se pagar o empréstimo. O valor da prestação mensal não pode ultrapassar 30% do salário. O programa deve considerar o valor da prestação como sendo o valor solicitado dividido pela quantidade de meses.
+#   Construa um programa bancário para aprovação de empréstimos. O
+# programa deve receber o valor do empréstimo solicitado, o salário do
+# cliente e a quantidade de meses para se pagar o empréstimo. O valor
+# da prestação mensal não pode ultrapassar 30% do salário. O programa
+# deve considerar o valor da prestação como sendo o valor solicitado
+# dividido pela quantidade de meses.
 
 
 valor_emprestimo = float(input("Digite o valor do empréstimo solicitado: R$"))

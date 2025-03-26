@@ -1,4 +1,7 @@
-#   A confederação brasileira de natação irá promover eliminatórias para o próximo mundial. Fazer um algoritmo em Python que receba a idade de um nadador e determine (imprima) a sua categoria segundo a tabela a seguir:
+#   A confederação brasileira de natação irá promover eliminatórias
+# para o próximo mundial. Fazer um algoritmo em Python que receba a
+# idade de um nadador e determine (imprima) a sua categoria segundo a
+# tabela a seguir:
 
 #   Categoria  | Idade
 #   Infantil A | 5 – 7 anos

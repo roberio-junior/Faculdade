@@ -1,6 +1,10 @@
-#   Dado três valores, A, B e C, construa um algoritmo em Python para verificar se estes valores podem ser valores dos lados de um triângulo. 
+#   Dado três valores, A, B e C, construa um algoritmo em Python para
+# verificar se estes valores podem ser valores dos lados de um triângulo. 
 
-#   "Só irá existir um triângulo se, somente se, os seus lados obedeceram à seguinte regra: um de seus lados deve ser maior que o valor absoluto (módulo)* da diferença dos outros dois lados e menor que a soma dos outros dois lados."
+#   "Só irá existir um triângulo se, somente se, os seus lados
+# obedeceram à seguinte regra: um de seus lados deve ser maior que o
+# valor absoluto (módulo)* da diferença dos outros dois lados e menor
+# que a soma dos outros dois lados."
 
 #   | b - c | < a < b + c |
 #   | a - c | < b < a + c |

@@ -1,4 +1,9 @@
-#   Depois da liberação do governo para as mensalidades dos planos de saúde, as pessoas começaram a fazer pesquisas para descobrir um bom plano, não muito caro. Um vendedor de um plano de saúde apresentou a tabela a seguir. Criar um algoritmo em Python que entre com a idade de uma pessoa e imprima o valor que ela deverá pagar, segundo a seguinte tabela:
+#   Depois da liberação do governo para as mensalidades dos planos de
+# saúde, as pessoas começaram a fazer pesquisas para descobrir um bom
+# plano, não muito caro. Um vendedor de um plano de saúde apresentou a
+# tabela a seguir. Criar um algoritmo em Python que entre com a idade
+# de uma pessoa e imprima o valor que ela deverá pagar, segundo a
+# seguinte tabela:
 
 #   Idade                   | Valor
 #   Até 10 anos             | R$ 30,00
