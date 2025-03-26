@@ -1,4 +1,4 @@
-#   Construa um programa que leia a categoria de um produto e determine o preço, conforme a tabela abaixo:
+# Construa um programa que leia a categoria de um produto e determine o preço, conforme a tabela abaixo:
 
 #   Categoria | Preço
 #   1         | 10,00
