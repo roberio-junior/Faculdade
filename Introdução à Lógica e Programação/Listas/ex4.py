@@ -1,3 +1,8 @@
+#   Escreva um programa que leia 5 números inteiros. Em seguida, determine
+# e imprima na tela o maior elemento par da lista(se houver), o menor
+# elemento ímpar da lista(se houver), o somatório dos elementos da lista e
+# a média.
+
 a = []
 maior_par = None
 menor_impar = None
