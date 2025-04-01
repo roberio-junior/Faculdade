@@ -8,7 +8,7 @@
 pares = []
 impares = []
 
-for i in range(10):
+for i in range(30):
 
     num = int(input(f"Digite o {i + 1}º número: "))
 
