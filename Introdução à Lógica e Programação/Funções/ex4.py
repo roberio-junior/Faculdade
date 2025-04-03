@@ -3,14 +3,17 @@
 
 def maiorNumero(num1, num2):
     if num1 > num2:
-        maior = num1
+        resultado = f"O maior numero é o {num1}."
     elif num2 > num1:
-        maior = num2
+        resultado = f"O maior numero é o {num2}."
     else:
-        return "Os números são iguais"
-    return f"O maior numero é o {maior}"
+        resultado = "Os números são iguais."
+
+    return resultado
 
 numero1 = float(input("Informe o 1º número: "))
 numero2 = float(input("Informe o 2º número: "))
 
-maiorNumero(numero1, numero2)
+resultado = maiorNumero(numero1, numero2)
+
+print(resultado)
