@@ -7,7 +7,6 @@
 # última semana, calcule seu salário e o exiba. Processe os dados de um
 # vendedor de cada vez.
 
-
 i=0
 while i != -1:
     i=float(input("Entre com a venda em dólares(-1 para finalizar):"))

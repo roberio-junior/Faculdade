@@ -34,7 +34,7 @@ def multiplicar(numero1, numero2):
     return f"Resultado: {resultado}"
 
 def dividir(numero1, numero2):
-    if numero1 == 0 or numero2 == 0:
+    if numero2 == 0:
         return "Erro! Divisão por zero."
     else:
         resultado = numero1 / numero2

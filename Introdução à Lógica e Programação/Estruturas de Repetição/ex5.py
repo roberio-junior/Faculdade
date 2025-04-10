@@ -1,6 +1,5 @@
 #   Desenvolva um programa que imprima o 25º número da sequência de Fibonacci na tela.
 
-
 contador = 1
 n1 = 0
 n2 = 1

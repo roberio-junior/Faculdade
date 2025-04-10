@@ -5,7 +5,6 @@
 #   -menor de idade;
 #   -pessoa idosa (idade superior ou igual a 65 anos).
 
-
 idade = int(input("Digite a idade da pessoa: "))
 
 if idade >= 18:

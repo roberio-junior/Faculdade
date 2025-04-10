@@ -13,7 +13,6 @@
 #   Acima de 59 até 65 anos | R$ 250,00
 #   maior que 65 anos       | R$ 400,00
 
-
 idade = int(input("Digite a idade da pessoa: "))
 
 if idade <= 10:

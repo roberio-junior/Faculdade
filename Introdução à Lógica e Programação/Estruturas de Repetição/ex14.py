@@ -1,4 +1,4 @@
-#   Modifique o programa escrito no Exercício 8 de forma que seja
+#   Modifique o programa escrito no Exercício 13 de forma que seja
 # impresso um quadrado vazado. Por exemplo, se seu programa lesse um
 # tamanho 5, deveria imprimir:
 
@@ -7,7 +7,6 @@
 # *   *
 # *   *
 # *****
-
 
 asteriscos=int(input('Informe quantos asteriscos cada lado do quadrado tem: '))
 contador = 1 

@@ -10,7 +10,6 @@
 #   Freqüência entre 75% e 100% e média de 3.0 até 7.0 e notas acima ou iguais a 3.0. | 4ª Prova
 #   Freqüência entre 75% e 100% e média entre 7.0 e 10.0                              | Aprovado
 
-
 frequencia = float(input("Digite a frequência do aluno (0 a 100%): "))
 nota1 = float(input("Digite a primeira nota: "))
 nota2 = float(input("Digite a segunda nota: "))

@@ -10,7 +10,6 @@
 #   Juvenil B  | 14 – 17 anos
 #   Sênior     | Maiores de 18 anos
 
-
 idade = int(input("Digite a idade do nadador: "))
 
 if idade >= 5 and idade <= 7:

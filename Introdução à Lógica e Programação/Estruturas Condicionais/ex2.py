@@ -3,7 +3,6 @@
 # divisão. Após a operação o programa deve exibir o resultado do
 # processamento.
 
-
 print("=" * 30)
 print("1 - Soma")
 print("2 - Subtração")

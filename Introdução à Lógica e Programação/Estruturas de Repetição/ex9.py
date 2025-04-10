@@ -14,7 +14,6 @@
 # ● num: O número atual fornecido ao programa,
 # ● maior: O maior número encontrado em cada instante.
 
-
 contador=0
 while contador<10:
     num=int(input('Digite um número da série:'))

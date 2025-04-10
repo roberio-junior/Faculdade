@@ -15,11 +15,8 @@
 #   Entre 35 e 39,99   | Obesidade II (severa)
 #   Acima de 40        | Obesidade III (mórbida)
 
-
 idade = int(input("Digite a sua idade: "))
-
 altura = float(input("Digite a sua altura (em metros): "))
-
 peso = float(input("Digite o seu peso (em quilogramas): "))
 
 if idade <= 15:

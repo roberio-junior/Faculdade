@@ -8,7 +8,6 @@
 # normal" de cada empregado. Seu programa deve receber essas informações
 # de cada empregado além de determinar e exibir o pagamento bruto do empregado.
 
-
 salario=0
 horas=0
 

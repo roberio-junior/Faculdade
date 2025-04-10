@@ -5,7 +5,6 @@
 # deve considerar o valor da prestação como sendo o valor solicitado
 # dividido pela quantidade de meses.
 
-
 valor_emprestimo = float(input("Digite o valor do empréstimo solicitado: R$"))
 
 salario = float(input("Digite o salário do cliente: R$"))

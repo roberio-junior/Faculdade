@@ -9,7 +9,6 @@
 # processar todas as informações, o programa deve calcular e exibir a
 # média de quilômetros por litro obtida para todos os recompletamentos.
 
-
 total_km = 0
 total_litros = 0
 contador = 0

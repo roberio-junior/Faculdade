@@ -8,7 +8,6 @@
 #   4         |26,00
 #   5         | 31,00
 
-
 categoria = int(input("Digite a categoria do produto (1 a 5): "))
     
 if categoria == 1:

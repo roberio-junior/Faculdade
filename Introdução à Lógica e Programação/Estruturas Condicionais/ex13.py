@@ -7,7 +7,6 @@
 #   x ao quadrado | 2 <x <=3
 #   x ao cubo     | x  >3
 
-
 x = float(input("Digite o valor de x: "))
 
 if x <= 1:

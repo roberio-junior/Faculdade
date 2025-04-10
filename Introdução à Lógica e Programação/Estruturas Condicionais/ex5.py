@@ -10,7 +10,6 @@
 #   De 1001 a 3000 | 40% do valor do saldo médio
 #   Acima de 3000  | 50% do valor do saldo médio
 
-
 saldo_medio = float(input("Digite o saldo médio do último ano: "))
 
 if saldo_medio >= 0 and saldo_medio <= 500:

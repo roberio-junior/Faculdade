@@ -8,7 +8,6 @@
 # ****
 # ****
 
-
 asteriscos=int(input('Informe quantos asteriscos cada lado do quadrado tem: '))
 contador=0
 while contador<asteriscos:

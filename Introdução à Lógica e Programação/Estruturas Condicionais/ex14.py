@@ -9,7 +9,6 @@
 #Freqüência entre 75% e 100% e Nota de 3.0 até 7.0   | 4ª Prova
 #Freqüência entre 75% e 100% e Nota entre 7.0 e 10.0 | Aprovado
 
-
 frequencia = float(input("Digite a frequência do aluno (0 a 100%): "))
 nota = float(input("Digite a nota do aluno (0.0 a 10.0): "))
 

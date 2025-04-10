@@ -15,7 +15,7 @@ def menorNumero():
 
         if aux != num:
             iguais = False
-        aux = num  # Atualiza aux sempre
+        aux = num
 
     if iguais:
         resultado = "Os números são iguais."

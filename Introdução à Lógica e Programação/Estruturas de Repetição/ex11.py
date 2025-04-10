@@ -1,7 +1,5 @@
-#    Usando um método similar ao do Exercício 4, encontre os dois
-# maiores valores de 10 números. Nota: Cada número só pode ser
-# fornecido uma única vez.
-
+#   Encontre os dois maiores valores de 10 números.
+# Nota: Cada número só pode ser fornecido uma única vez.
 
 maior1 = int(input("Digite o 1º número: "))
 maior2 = int(input("Digite o 2º número: "))

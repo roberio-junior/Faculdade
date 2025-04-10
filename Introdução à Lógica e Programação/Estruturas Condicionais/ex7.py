@@ -5,7 +5,6 @@
 #   -eleitor obrigatório (entre a faixa de 18 e menor de 65 anos);
 #   -eleitor facultativo (de 16 até 18 anos e maior de 65 anos, inclusive).
 
-
 idade = int(input("Digite a idade da pessoa: "))
 
 if idade < 16:

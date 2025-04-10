@@ -4,10 +4,8 @@
 # “Reprovado” ou em “Quarta Prova” (a média é 7 para "Aprovação", menor
 # que 3 para "Reprovação" e as demais em "Quarta Prova").
 
-
 nota1 = float(input("Digite a primeira nota (0 a 10): "))
 nota2 = float(input("Digite a segunda nota: (0 a 10)"))
-
 media = (nota1 + nota2) / 2
 
 if media >= 7:
