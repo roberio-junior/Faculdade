@@ -1,2 +1,2 @@
-# Faculdade
- Repositório dedicado aos exercícios desenvolvidos durante as aulas do curso superior de Tecnologia em Sistemas para a Internet(TSI).
+# Programação Orientada a Objetos
+ Repositório dedicado à disciplina de Programação Orientada a Objetos, contendo materiais, exercícios e projetos desenvolvidos ao longo do curso.
